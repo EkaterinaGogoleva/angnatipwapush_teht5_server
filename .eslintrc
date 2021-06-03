@@ -1,0 +1,32 @@
+{
+  "extends": "google",
+  "parserOptions": {
+    "ecmaVersion": 2017
+},
+
+"env": {
+    "es6": true
+},
+  "rules": {
+      "require-jsdoc": "off",
+      "max-len": "off",
+      "padded-blocks": "off",
+      "no-console": "off",
+      "space-unary-ops": "off",
+      "eol-last": "off",
+      "spaced-comment": "off",
+      "func-names": "off",
+      "no-param-reassign": "off",
+      "space-before-function-paren": "off",
+      "indent": ["error", 4],
+      "space-in-parens": "off",
+      "linebreak-style": "off",
+      "one-var": "off",
+      "no-inline-comments": "off",
+      "array-bracket-spacing": "off",
+      "computed-property-spacing": "off",
+      "one-var-declaration-per-line": "off",
+      "object-curly-spacing": "off",
+      "strict": "off"
+    }
+}
